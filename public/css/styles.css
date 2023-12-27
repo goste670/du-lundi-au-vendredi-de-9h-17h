@@ -1,0 +1,44 @@
+/* Ajoutez vos styles CSS ici */
+body {
+  /* display: flex; */
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: rgb(59, 6, 80);
+  margin: 10px;
+  padding: 10px;
+
+}
+
+nav {
+  display: flex;
+  margin-top: 20px;
+  background-color: rgba(176, 7, 243, 0.479);
+  border: #8141e9 solid;
+  align-items: center;
+  justify-content: center;
+  height: 10vh; 
+  margin: 2px;
+  padding: 2px;
+}
+
+nav a {
+  display: flex;
+  margin-right: 20px;
+  text-decoration: none;
+  color: aquamarine;
+  font-weight: bold;
+
+}
+
+nav a:hover {
+  color: #3369ff;
+}
+
+h1 {
+  color: #005cad;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 10vh; 
+  margin: 0; 
+}

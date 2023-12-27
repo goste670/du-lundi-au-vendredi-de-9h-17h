@@ -1,0 +1,31 @@
+#services{
+display: flex;
+align-items: center;
+justify-content: center;
+height: 60vh; 
+margin: 5; 
+}
+
+#one{
+    color: rgb(255, 127, 234);
+    border: 2px coral solid;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 255, 0.548);
+}
+
+#two{
+    color: aquamarine;
+    border: 2px coral solid;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 255, 0.548);
+}
+
+#tree{
+    color: yellow;
+    border: 2px coral solid;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 255, 0.548);
+}
